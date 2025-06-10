@@ -19,6 +19,7 @@ My i3 config includes a few tweaks to improve productivity, notably:
 
 * Customized Neovim setup with Kickstart.nvim
 * i3 config with Caps Lock remapped to Escape
+* i3 added screenshot capability with mod shift s and saves to screenshots folder in pictures
 * Optimized for efficient coding and text editing workflows
 
 #################################### Installation

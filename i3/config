@@ -49,6 +49,9 @@ bindsym $mod+f exec firefox
 #set caps lock as an extra esc key
 exec_always setxkbmap -option caps:escape
 
+#set mod shift s to take a screenshot and save to pictures folder
+bindsym $mod+Shift+s exec scrot "$HOME/Pictures/Screenshots/$(date +'%Y-%m-%d_%H-%M-%S').png"
+
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id dmenu_run
 # A more modern dmenu replacement is rofi:
