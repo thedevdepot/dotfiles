@@ -8,6 +8,8 @@ I'm using a customized [Kickstart.nvim](https://github.com/nvim-lua/kickstart.nv
 To loadup kickstart input:
 git clone https://github.com/nvim-lua/kickstart.nvim "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 
+![Setup Screenshot](dot_files.png)
+
 ## i3 Configuration
 
 My i3 config includes a few tweaks to improve productivity, notably:
@@ -22,7 +24,7 @@ My i3 config includes a few tweaks to improve productivity, notably:
 * i3 added screenshot capability with mod shift s and saves to screenshots folder in pictures
 * Optimized for efficient coding and text editing workflows
 
-#################################### Installation
+### Installation
 
 To use these configurations, clone this repository and follow the instructions for setting up Kickstart.nvim and i3.
 
