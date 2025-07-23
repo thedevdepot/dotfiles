@@ -33,3 +33,8 @@ To use these configurations, clone this repository and follow the instructions f
 * For i3, copy the `i3/config` file to `~/.config/i3/config` and restart i3.
 
 Feel free to explore and adapt these configurations to suit your own needs!
+
+### get the latest nvim
+curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.appimage
+chmod u+x nvim-linux-x86_64.appimage
+./nvim-linux-x86_64.appimage
