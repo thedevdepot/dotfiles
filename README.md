@@ -38,3 +38,12 @@ Feel free to explore and adapt these configurations to suit your own needs!
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux-x86_64.appimage
 chmod u+x nvim-linux-x86_64.appimage
 ./nvim-linux-x86_64.appimage
+
+## Terminal Multiplexer
+- TMUX
+- uses tmux.conf
+
+## Terminal
+- Alacritty
+- uses file folder in .config /alacritty/alacritty.config
+
